@@ -28,6 +28,10 @@ Frequently Used Laguages
 ---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=blaze-m22&layout=compact&theme=chartreuse-dark)](https://github.com/blaze-m22/github-readme-stats)
 
+Badges
+---
+[![@blay_ze's Holopin board](https://holopin.io/api/user/board?user=blay_ze)](https://holopin.io/@blay_ze)
+
 <!---
 blaze-m22/blaze-m22 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
